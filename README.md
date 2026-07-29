@@ -1,1 +1,1 @@
-# DIPT-EXP-2-Record-Image-Acquisition-using-Web-Camera
+# EXP-2 Record Image Acquisition using Web Camera
