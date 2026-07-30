@@ -73,7 +73,8 @@ plt.axis('off')
 plt.show()
 ```
 
-<img width="671" height="539" alt="image" src="https://github.com/user-attachments/assets/46ba5a1f-3060-49e6-a11a-11b3021c2474" />
+<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/2961a373-693b-4ad1-86fd-0ef1733b61c7" />
+
 
 
 
@@ -96,7 +97,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="681" height="511" alt="image" src="https://github.com/user-attachments/assets/1f169316-ef6b-4db7-88b9-80c8963d64e6" />
+<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/86676896-e5c9-4083-b0cd-6edd0e11a3f8" />
+
 
 
 
@@ -121,7 +123,8 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="291" height="435" alt="image" src="https://github.com/user-attachments/assets/7f7a1b90-b750-46bb-aa73-0aa03d6db759" />
+<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/204a14bc-e1a5-40f3-b19e-aae2d2b7a851" />
+
 
 
 
@@ -147,7 +150,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="395" height="513" alt="image" src="https://github.com/user-attachments/assets/9b6ed934-5f29-4753-99f2-49eb582a4e38" />
+<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/d881a1b8-db71-4f0b-9fab-7f46fd121fed" />
+
 
 
 
