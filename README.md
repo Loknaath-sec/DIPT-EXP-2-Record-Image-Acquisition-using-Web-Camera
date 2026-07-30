@@ -1,6 +1,6 @@
 # EXP-2 Record Image Acquisition using Web Camera
-
----
+## NAME : LOKNAATH P
+## REGISTER NUMBER : 212223240080
 
 ## Aim
 
@@ -11,7 +11,7 @@ To write a Python program using OpenCV to capture an image from the webcam and p
 3. Display the video by resizing the window  
 4. Rotate and display the video  
 
----
+
 
 ## 🛠️ Software Used
 
@@ -19,7 +19,7 @@ To write a Python program using OpenCV to capture an image from the webcam and p
 - Jupyter Notebook / VS Code  
 - OpenCV (`cv2`)  
 
----
+
 
 ## ⚙️ Algorithm
 
@@ -38,7 +38,7 @@ Display the live video stream using `cv2.imshow()`.
 ### Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
----
+
 
 ## 💻 Program
 
